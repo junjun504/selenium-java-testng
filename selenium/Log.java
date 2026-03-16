@@ -1,0 +1,2 @@
+public record Log( ) {
+}
